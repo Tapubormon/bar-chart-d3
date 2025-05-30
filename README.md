@@ -18,6 +18,6 @@ This is a simple bar chart built using D3.js. It visualizes a set of sample data
 
 ## 🔗 Live Demo
 
-[Click here to view the live project](https://your-username.github.io/bar-chart-d3)
+[Click here to view the live project](https://tapubormon.github.io/bar-chart-d3/)
 
 
