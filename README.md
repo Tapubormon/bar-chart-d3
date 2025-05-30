@@ -14,7 +14,7 @@ This is a simple bar chart built using D3.js. It visualizes a set of sample data
 
 ## 📷 Preview
 
-![Preview](Capture.png)
+![Preview](Capture.PNG)
 
 ## 🔗 Live Demo
 
